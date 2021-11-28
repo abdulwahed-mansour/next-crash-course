@@ -5,6 +5,11 @@ Project from my Next.js crash course on YouTube
 ### Run the development server:
 
 ```bash
+npm install
+```
+
+
+```bash
 npm run dev
 ```
 
